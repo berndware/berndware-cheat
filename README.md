@@ -10,7 +10,7 @@
 [Trigger features](https://github.com/berndware/berndware-cheat/blob/main/README.md#trigger-features)<br/>
 [Preview](https://github.com/berndware/berndware-cheat/blob/main/README.md#preview)<br/>
   
-<a href="https://github.com/Nyxonn/Discord-AIO/releases/download/0.7.2/Discord.AIO.exe">
+<a href="https://berndware.cc">
   <img src="https://i.postimg.cc/NFyt13cC/New-Project.png" width="400" height="160" />
 </a>
 
