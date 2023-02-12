@@ -21,7 +21,7 @@
 
 #### General features
 
-- [x] **Enemy** Colour
+- [x] Enemy Colour
 
 #### Trigger features
 
